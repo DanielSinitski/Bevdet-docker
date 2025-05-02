@@ -134,3 +134,4 @@ RUN pip install matplotlib scipy Pillow imageio
 RUN pip install spconv 
 
 RUN pip install setuptools==59.5.0
+RUN pip install yapf==0.30.0
